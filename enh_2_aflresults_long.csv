@@ -1,4 +1,4 @@
-,year,round,type,team,tm_pts,opp_team,op_pts,venue,tm,op,hvar,lr,tm_var,outcome,state
+,year,rnd,type,team,tm_pts,opp_team,op_pts,venue,tm,op,hvar,lr,tm_var,outcome,state
 1,1897,R1,reg_season,Fitzroy,49,Carlton,16,Brunswick St,FI,CA,33,1,33,W,VIC
 1,1897,R1,reg_season,Carlton,16,Fitzroy,49,Brunswick St,CA,FI,33,0,-33,L,VIC
 2,1897,R1,reg_season,Collingwood,41,St Kilda,16,Victoria Park,CO,SK,25,1,25,W,VIC
