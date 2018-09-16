@@ -1,4 +1,4 @@
-,seq,date,round,team1,gls_1,bhs_1,pts_1,team2,gls_2,bhs_2,pts_2,venue,state,hvar,aggr,year,month,t1,t2,draw_rt,etime_draw,draws_all,type,grp_2K,grp_1K,res1,res2
+,seq,date,rnd,team1,gls_1,bhs_1,pts_1,team2,gls_2,bhs_2,pts_2,venue,state,hvar,aggr,year,month,t1,t2,draw_rt,etime_draw,draws_all,type,grp_2K,grp_1K,res1,res2
 1,1,1897-05-08,R1,Fitzroy,6,13,49,Carlton,2,4,16,Brunswick St,VIC,33,65,1897,5,FI,CA,0,0,0,reg_season,1,1,1,2
 2,2,1897-05-08,R1,Collingwood,5,11,41,St Kilda,2,4,16,Victoria Park,VIC,25,57,1897,5,CO,SK,0,0,0,reg_season,1,1,1,2
 3,3,1897-05-08,R1,Geelong,3,6,24,Essendon,7,5,47,Corio Oval,VIC,-23,71,1897,5,GE,ES,0,0,0,reg_season,1,1,2,1
