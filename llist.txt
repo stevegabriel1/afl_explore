@@ -4171,8 +4171,8 @@ All games in chronological order
 4169.  13-May-1944      R2   Collingwood       11.17.83         Fitzroy           19.17.131         Victoria Park
 4170.  13-May-1944      R2   Essendon          17.18.120        Melbourne         16.4.100          Windy Hill
 4171.  13-May-1944      R2   St Kilda          12.17.89         Footscray         10.14.74          Junction Oval
-4172.  13-May-1944      R2   Geelong           9.11.65          South Melbourne   11.18.84          Kardinia Park
-4173.  13-May-1944      R2   Richmond          18.11.119        North Melbourne   15.9.99           Punt Rd
+4172.  13-May-1944      R2   Richmond          18.11.119        North Melbourne   15.9.99           Punt Rd
+4173.  13-May-1944      R2   Geelong           9.11.65          South Melbourne   11.18.84          Kardinia Park
 4174.  20-May-1944      R3   Melbourne         12.5.77          Carlton           14.8.92           Punt Rd
 4175.  20-May-1944      R3   Footscray         16.9.105         Collingwood       13.19.97          Western Oval
 4176.  20-May-1944      R3   Essendon          16.14.110        Richmond          22.19.151         Windy Hill
@@ -15404,3 +15404,96 @@ All games in chronological order
 15402. 8-Sep-2018       QF   West Coast        12.14.86         Collingwood       10.10.70          Perth Stadium
 15403. 14-Sep-2018      SF   Melbourne         16.8.104         Hawthorn          10.11.71          M.C.G.
 15404. 15-Sep-2018      SF   Collingwood       9.15.69          GW Sydney         9.5.59            M.C.G.
+15405. 21-Sep-2018      PF   Collingwood       15.7.97          Richmond          8.10.58           M.C.G.
+15406. 22-Sep-2018      PF   West Coast        18.13.121        Melbourne         7.13.55           Perth Stadium
+15407. 29-Sep-2018      GF   West Coast        11.13.79         Collingwood       11.8.74           M.C.G.
+15408. 21-Mar-2019      R1   Carlton           9.10.64          Richmond          14.13.97          M.C.G.
+15409. 22-Mar-2019      R1   Collingwood       9.11.65          Geelong           10.12.72          M.C.G.
+15410. 23-Mar-2019      R1   Melbourne         9.7.61           Port Adelaide     12.15.87          M.C.G.
+15411. 23-Mar-2019      R1   Adelaide          7.13.55          Hawthorn          12.15.87          Adelaide Oval
+15412. 23-Mar-2019      R1   Western Bulldogs  11.16.82         Sydney            9.11.65           Docklands
+15413. 23-Mar-2019      R1   Brisbane Lions    15.12.102        West Coast        8.10.58           Gabba
+15414. 24-Mar-2019      R1   St Kilda          13.7.85          Gold Coast        13.6.84           Docklands
+15415. 24-Mar-2019      R1   GW Sydney         16.16.112        Essendon          5.10.40           Sydney Showground
+15416. 24-Mar-2019      R1   Fremantle         21.15.141        North Melbourne   9.5.59            Perth Stadium
+15417. 28-Mar-2019      R2   Richmond          10.6.66          Collingwood       17.8.110          M.C.G.
+15418. 29-Mar-2019      R2   Sydney            8.14.62          Adelaide          12.16.88          S.C.G.
+15419. 30-Mar-2019      R2   Port Adelaide     13.10.88         Carlton           11.6.72           Adelaide Oval
+15420. 30-Mar-2019      R2   Essendon          9.11.65          St Kilda          10.16.76          Docklands
+15421. 30-Mar-2019      R2   Geelong           20.6.126         Melbourne         6.10.46           Kardinia Park
+15422. 30-Mar-2019      R2   West Coast        16.8.104         GW Sydney         7.10.52           Perth Stadium
+15423. 31-Mar-2019      R2   North Melbourne   13.9.87          Brisbane Lions    16.11.107         Docklands
+15424. 31-Mar-2019      R2   Hawthorn          13.9.87          Western Bulldogs  16.10.106         M.C.G.
+15425. 31-Mar-2019      R2   Gold Coast        7.19.61          Fremantle         8.10.58           Carrara
+15426. 4-Apr-2019       R3   Adelaide          10.15.75         Geelong           14.15.99          Adelaide Oval
+15427. 5-Apr-2019       R3   Melbourne         18.4.112         Essendon          20.10.130         M.C.G.
+15428. 6-Apr-2019       R3   Carlton           10.14.74         Sydney            14.9.93           Docklands
+15429. 6-Apr-2019       R3   GW Sydney         19.11.125        Richmond          10.16.76          Sydney Showground
+15430. 6-Apr-2019       R3   Collingwood       11.10.76         West Coast        15.8.98           M.C.G.
+15431. 6-Apr-2019       R3   Brisbane Lions    16.11.107        Port Adelaide     13.12.90          Gabba
+15432. 7-Apr-2019       R3   Western Bulldogs  9.14.68          Gold Coast        10.13.73          Docklands
+15433. 7-Apr-2019       R3   Hawthorn          13.9.87          North Melbourne   10.11.71          M.C.G.
+15434. 7-Apr-2019       R3   Fremantle         11.5.71          St Kilda          9.12.66           Perth Stadium
+15435. 11-Apr-2019      R4   Sydney            11.12.78         Melbourne         15.10.100         S.C.G.
+15436. 12-Apr-2019      R4   Collingwood       11.12.78         Western Bulldogs  9.10.64           M.C.G.
+15437. 13-Apr-2019      R4   Geelong           11.9.75          GW Sydney         11.13.79          Kardinia Park
+15438. 13-Apr-2019      R4   Essendon          17.10.112        Brisbane Lions    9.11.65           M.C.G.
+15439. 13-Apr-2019      R4   Port Adelaide     14.8.92          Richmond          15.9.99           Adelaide Oval
+15440. 13-Apr-2019      R4   North Melbourne   9.17.71          Adelaide          8.11.59           Docklands
+15441. 13-Apr-2019      R4   West Coast        10.9.69          Fremantle         7.14.56           Perth Stadium
+15442. 14-Apr-2019      R4   Gold Coast        8.11.59          Carlton           8.9.57            Carrara
+15443. 14-Apr-2019      R4   St Kilda          10.14.74         Hawthorn          10.9.69           Docklands
+15444. 18-Apr-2019      R5   Brisbane Lions    8.13.61          Collingwood       18.15.123         Gabba
+15445. 19-Apr-2019      R5   North Melbourne   7.16.58          Essendon          17.14.116         Docklands
+15446. 19-Apr-2019      R5   West Coast        8.5.53           Port Adelaide     13.17.95          Perth Stadium
+15447. 20-Apr-2019      R5   GW Sydney         11.16.82         Fremantle         16.10.106         Manuka Oval
+15448. 20-Apr-2019      R5   Melbourne         7.13.55          St Kilda          15.5.95           M.C.G.
+15449. 20-Apr-2019      R5   Richmond          13.11.89         Sydney            10.7.67           Docklands
+15450. 21-Apr-2019      R5   Western Bulldogs  7.15.57          Carlton           15.11.101         Docklands
+15451. 21-Apr-2019      R5   Adelaide          18.11.119        Gold Coast        6.10.46           Adelaide Oval
+15452. 22-Apr-2019      R5   Hawthorn          13.12.90         Geelong           17.11.113         M.C.G.
+15453. 24-Apr-2019      R6   Richmond          12.13.85         Melbourne         6.6.42            M.C.G.
+15454. 25-Apr-2019      R6   Essendon          10.9.69          Collingwood       10.13.73          M.C.G.
+15455. 26-Apr-2019      R6   Port Adelaide     12.16.88         North Melbourne   11.6.72           Adelaide Oval
+15456. 27-Apr-2019      R6   Gold Coast        9.8.62           Brisbane Lions    16.15.111         Carrara
+15457. 27-Apr-2019      R6   St Kilda          10.8.68          Adelaide          15.7.97           Docklands
+15458. 27-Apr-2019      R6   Sydney            12.7.79          GW Sydney         18.12.120         S.C.G.
+15459. 27-Apr-2019      R6   Fremantle         13.10.88         Western Bulldogs  9.15.69           Perth Stadium
+15460. 28-Apr-2019      R6   Hawthorn          13.15.93         Carlton           13.10.88          York Park
+15461. 28-Apr-2019      R6   Geelong           15.14.104        West Coast        7.4.46            Kardinia Park
+15462. 3-May-2019       R7   Collingwood       15.18.108        Port Adelaide     10.9.69           Docklands
+15463. 4-May-2019       R7   Melbourne         11.13.79         Hawthorn          11.8.74           M.C.G.
+15464. 4-May-2019       R7   GW Sydney         18.6.114         St Kilda          10.10.70          Manuka Oval
+15465. 4-May-2019       R7   Brisbane Lions    14.19.103        Sydney            12.9.81           Gabba
+15466. 4-May-2019       R7   Western Bulldogs  15.9.99          Richmond          7.10.52           Docklands
+15467. 4-May-2019       R7   West Coast        11.14.80         Gold Coast        8.9.57            Perth Stadium
+15468. 5-May-2019       R7   Carlton           8.14.62          North Melbourne   18.12.120         Docklands
+15469. 5-May-2019       R7   Geelong           13.8.86          Essendon          7.12.54           M.C.G.
+15470. 5-May-2019       R7   Adelaide          7.9.51           Fremantle         5.4.34            Adelaide Oval
+15471. 10-May-2019      R8   Sydney            11.11.77         Essendon          10.12.72          S.C.G.
+15472. 11-May-2019      R8   Carlton           13.9.87          Collingwood       16.10.106         M.C.G.
+15473. 11-May-2019      R8   Western Bulldogs  13.14.92         Brisbane Lions    11.10.76          Eureka Stadium
+15474. 11-May-2019      R8   Gold Coast        9.6.60           Melbourne         8.13.61           Carrara
+15475. 11-May-2019      R8   St Kilda          10.10.70         West Coast        12.16.88          Docklands
+15476. 11-May-2019      R8   Port Adelaide     9.14.68          Adelaide          13.10.88          Adelaide Oval
+15477. 12-May-2019      R8   North Melbourne   11.14.80         Geelong           16.8.104          Docklands
+15478. 12-May-2019      R8   Hawthorn          10.11.71         GW Sydney         5.8.38            M.C.G.
+15479. 12-May-2019      R8   Fremantle         12.14.86         Richmond          17.9.111          Perth Stadium
+15480. 17-May-2019      R9   West Coast        13.7.85          Melbourne         9.15.69           Perth Stadium
+15481. 18-May-2019      R9   Collingwood       17.10.112        St Kilda          10.11.71          M.C.G.
+15482. 18-May-2019      R9   Brisbane Lions    13.15.93         Adelaide          13.14.92          Gabba
+15483. 18-May-2019      R9   Geelong           21.7.133         Western Bulldogs  13.11.89          Kardinia Park
+15484. 18-May-2019      R9   Essendon          8.12.60          Fremantle         7.11.53           Docklands
+15485. 18-May-2019      R9   North Melbourne   10.12.72         Sydney            11.11.77          Bellerive Oval
+15486. 19-May-2019      R9   Port Adelaide     13.11.89         Gold Coast        7.9.51            Adelaide Oval
+15487. 19-May-2019      R9   Richmond          14.11.95         Hawthorn          8.11.59           M.C.G.
+15488. 19-May-2019      R9   GW Sydney         20.18.138        Carlton           7.3.45            Sydney Showground
+15489. 24-May-2019      R10  Sydney            11.7.73          Collingwood       11.14.80          S.C.G.
+15490. 25-May-2019      R10  Hawthorn          12.8.80          Port Adelaide     6.13.49           York Park
+15491. 25-May-2019      R10  Western Bulldogs  13.12.90         North Melbourne   18.7.115          Docklands
+15492. 25-May-2019      R10  Adelaide          10.13.73         West Coast        13.7.85           Adelaide Oval
+15493. 25-May-2019      R10  Richmond          10.13.73         Essendon          6.14.50           M.C.G.
+15494. 25-May-2019      R10  Gold Coast        9.10.64          Geelong           13.13.91          Carrara
+15495. 26-May-2019      R10  Melbourne         10.8.68          GW Sydney         14.10.94          M.C.G.
+15496. 26-May-2019      R10  St Kilda          9.14.68          Carlton           8.7.55            Docklands
+15497. 26-May-2019      R10  Fremantle         10.13.73         Brisbane Lions    10.12.72          Perth Stadium
