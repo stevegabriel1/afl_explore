@@ -15497,3 +15497,18 @@ All games in chronological order
 15495. 26-May-2019      R10  Melbourne         10.8.68          GW Sydney         14.10.94          M.C.G.
 15496. 26-May-2019      R10  St Kilda          9.14.68          Carlton           8.7.55            Docklands
 15497. 26-May-2019      R10  Fremantle         10.13.73         Brisbane Lions    10.12.72          Perth Stadium
+15498. 31-May-2019      R11  North Melbourne   15.9.99          Richmond          9.8.62            Docklands
+15499. 1-Jun-2019       R11  Collingwood       11.9.75          Fremantle         11.13.79          M.C.G.
+15500. 1-Jun-2019       R11  GW Sydney         19.12.126        Gold Coast        6.7.43            Sydney Showground
+15501. 1-Jun-2019       R11  Geelong           13.7.85          Sydney            8.15.63           Kardinia Park
+15502. 1-Jun-2019       R11  Brisbane Lions    12.13.85         Hawthorn          10.6.66           Gabba
+15503. 1-Jun-2019       R11  Melbourne         12.16.88         Adelaide          14.6.90           Marrara Oval
+15504. 2-Jun-2019       R11  St Kilda          9.15.69          Port Adelaide     22.7.139          Jiangwan Stadium
+15505. 2-Jun-2019       R11  Essendon          11.8.74          Carlton           4.9.33            M.C.G.
+15506. 2-Jun-2019       R11  West Coast        21.7.133         Western Bulldogs  10.12.72          Perth Stadium
+15507. 7-Jun-2019       R12  Richmond          5.7.37           Geelong           16.8.104          M.C.G.
+15508. 8-Jun-2019       R12  Carlton           11.12.78         Brisbane Lions    9.9.63            Docklands
+15509. 8-Jun-2019       R12  Gold Coast        11.6.72          North Melbourne   14.15.99          Carrara
+15510. 8-Jun-2019       R12  Adelaide          12.10.82         GW Sydney         9.7.61            Adelaide Oval
+15511. 9-Jun-2019       R12  Sydney            18.8.116         West Coast        10.11.71          S.C.G.
+15512. 10-Jun-2019      R12  Collingwood       15.8.98          Melbourne         7.15.57           M.C.G.
