@@ -1,0 +1,46 @@
+,seq,date,round,home_team,venue
+0,1,8-May-1897,R1,Fitzroy,Brunswick St
+1,2,8-May-1897,R1,Collingwood,Victoria Park
+2,3,8-May-1897,R1,Geelong,Corio Oval
+3,4,8-May-1897,R1,South Melbourne,Lake Oval
+4,5,15-May-1897,R2,South Melbourne,Lake Oval
+5,6,15-May-1897,R2,Essendon,East Melbourne
+6,7,15-May-1897,R2,St Kilda,Junction Oval
+7,8,15-May-1897,R2,Melbourne,M.C.G.
+8,9,22-May-1897,R3,Collingwood,Victoria Park
+9,10,22-May-1897,R3,Fitzroy,Brunswick St
+10,11,24-May-1897,R3,Essendon,East Melbourne
+11,12,24-May-1897,R3,South Melbourne,Lake Oval
+12,13,29-May-1897,R4,Geelong,Corio Oval
+13,14,29-May-1897,R4,South Melbourne,Lake Oval
+14,15,29-May-1897,R4,Fitzroy,Brunswick St
+15,16,29-May-1897,R4,Melbourne,M.C.G.
+16,17,5-Jun-1897,R5,Melbourne,M.C.G.
+17,18,5-Jun-1897,R5,Collingwood,Victoria Park
+18,19,5-Jun-1897,R5,St Kilda,Junction Oval
+19,20,5-Jun-1897,R5,Geelong,Corio Oval
+20,21,19-Jun-1897,R6,St Kilda,Junction Oval
+21,22,19-Jun-1897,R6,Melbourne,M.C.G.
+22,23,19-Jun-1897,R6,South Melbourne,Lake Oval
+23,24,19-Jun-1897,R6,Geelong,Corio Oval
+24,25,22-Jun-1897,R7,Carlton,Princes Park
+25,26,22-Jun-1897,R7,Essendon,East Melbourne
+26,27,22-Jun-1897,R7,Fitzroy,Brunswick St
+27,28,22-Jun-1897,R7,St Kilda,Junction Oval
+28,29,26-Jun-1897,R8,St Kilda,Junction Oval
+29,30,26-Jun-1897,R8,Essendon,East Melbourne
+30,31,26-Jun-1897,R8,Melbourne,M.C.G.
+31,32,26-Jun-1897,R8,Carlton,Princes Park
+32,33,3-Jul-1897,R9,Carlton,Princes Park
+33,34,3-Jul-1897,R9,Collingwood,Victoria Park
+34,35,3-Jul-1897,R9,Fitzroy,Brunswick St
+35,36,3-Jul-1897,R9,Geelong,Corio Oval
+36,37,10-Jul-1897,R10,Carlton,Princes Park
+37,38,10-Jul-1897,R10,Geelong,Corio Oval
+38,39,10-Jul-1897,R10,Melbourne,M.C.G.
+39,40,10-Jul-1897,R10,St Kilda,Junction Oval
+40,41,17-Jul-1897,R11,Carlton,Princes Park
+41,42,17-Jul-1897,R11,Collingwood,Victoria Park
+42,43,17-Jul-1897,R11,Essendon,East Melbourne
+43,44,17-Jul-1897,R11,St Kilda,Junction Oval
+44,45,24-Jul-1897,R12,Carlton,M.C.G.
